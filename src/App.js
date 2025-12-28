@@ -92,7 +92,7 @@ function Contact() {
         Interested in partnerships, collaborations, or learning more about our work?
         Reach out and let’s build the future of learning together.
       </p>
-      <a href="mailto:ayobami@blackmint.io" className="btn">Contact Us</a>
+      <a href="mailto:xperiencesai@gmail.com" className="btn">Contact Us</a>
     </section>
   );
 }
