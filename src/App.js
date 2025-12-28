@@ -64,7 +64,7 @@ function Platforms() {
           <h3>InteractED Foundation</h3>
           <div className="partner">Independent nonprofit — built & powered by Xperiences AI</div>
           <p>
-            InteractED Foundation is an independent nonprofit delivering free, high-quality courses globally.
+            InteractED Foundation is an independent nonprofit organization delivering free, high-quality courses globally.
             Xperiences AI built and powers their learning platform to ensure open access to learning for everyone.
           </p>
           <a href="https://www.interacted.app" target="_blank" rel="noreferrer" className="btn">
